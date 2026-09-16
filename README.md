@@ -2,7 +2,7 @@
 
 **Scaffale** è un'API REST per catalogare libri, film e serie TV: cosa hai letto o visto, cosa vuoi ancora recuperare, con quale voto lo ricordi. A differenza di Bussola e RestMenu, qui non c'è un'interfaccia grafica: è un servizio che espone dati tramite richieste HTTP, pensato per essere consumato da altre applicazioni (o provato direttamente dalla documentazione interattiva inclusa).
 
-**🔗 Demo live:** _(da aggiungere dopo il deploy — vedi sezione "Deploy" più sotto)_
+**🔗 Demo live:** [scaffale-api.onrender.com/docs](https://scaffale-api.onrender.com/docs)
 
 **📖 Documentazione interattiva:** una volta avviata, disponibile su `/docs` — permette di provare ogni endpoint direttamente dal browser, senza scrivere codice.
 
